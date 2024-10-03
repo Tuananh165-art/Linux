@@ -30,10 +30,10 @@ nice [  -Increment|  -n Increment ] Command [ Argument ... ]
 ```
 
 
-### Cờ : 
+### Tham số : 
 
 
-|**Cờ ngắn**   |**Cờ dài**   |**Mô tả**   |
+|**Tham số ngắn**   |**Tham số dài**   |**Mô tả**   |
 |:---|:---|:---|
 
 |`-Increment`|<center>-</center>|Increment là giá trị của mức độ ưu tiên bạn muốn gán.|

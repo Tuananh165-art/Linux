@@ -37,15 +37,15 @@ tail -f destination.txt | grep --line-buffered "key"
 
 ### Cú pháp:
 
-The general syntax for the grep command is as follows:
+Cú pháp chung cho lệnh grep như sau:
 
 ```
 grep [options] pattern [files]
 ```
 
-### Các cờ bổ sung và chức năng của chúng:
+### Các tham số bổ sung và chức năng của chúng:
 
-| **Cờ ngắn**    | **Cờ dài**             | **Mô tả**                                                                                       |
+| **Tham số ngắn**    | **Tham số dài**             | **Mô tả**                                                                                       |
 | :------------- | :--------------------- | :---------------------------------------------------------------------------------------------- |
 | `-c`           | `--count`              | in số lượng dòng khớp cho mỗi tệp đầu vào                                                       |
 | `-h`           | `--no-filename`        | Hiển thị các dòng khớp, nhưng không hiển thị tên tệp                                            |

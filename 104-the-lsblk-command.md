@@ -51,7 +51,7 @@ lsblk [options] [<device> ...]
 ```
 
 ## Đọc thông tin được cung cấp bởi ``lsblk``
-Khi chạy ``lsblk`` mà không có cờ hoặc đối số dòng lệnh, nó sẽ ghi thông tin đĩa chung vào STDOUT.
+Khi chạy ``lsblk`` mà không có tham số hoặc đối số dòng lệnh, nó sẽ ghi thông tin đĩa chung vào STDOUT.
 Dưới đây là bảng giải thích thông tin đó:
 
 | Tên Cột    | Ý Nghĩa                           | Giải Thích                                                |
@@ -70,10 +70,10 @@ Ví dụ, lệnh ``lsblk`` để hiển thị thông tin của đĩa ``sda`` là
 lsblk /dev/sda
 ```
 
-## Các cờ hữu ích cho ``lsblk``
-Dưới đây là bảng hiển thị một số cờ hữu ích có thể được sử dụng với lsblk
+## Các tham số hữu ích cho ``lsblk``
+Dưới đây là bảng hiển thị một số tham số hữu ích có thể được sử dụng với lsblk
 
-| **Cờ Ngắn**               | **Cờ Dài**             | **Mô Tả**                                  |
+| **Tham số Ngắn**               | **Tham số Dài**             | **Mô Tả**                                  |
 |:-------------------------:|:----------------------|:-------------------------------------------|
 | ``-a``                    | ``--all``             | `lsblk` không liệt kê các thiết bị trống theo mặc định. Tùy chọn này vô hiệu hóa hạn chế này.|
 | ``-b``                    | ``--bytes``           | In cột SIZE bằng byte thay vì định dạng dễ đọc cho con người.|

@@ -55,9 +55,9 @@ Cú pháp chung cho lệnh `tr` như sau:
 tr [options] string1 [string2]
 ```
 
-### Các cờ bổ sung và chức năng của chúng:
+### Các tham số bổ sung và chức năng của chúng:
 
-| **Cờ ngắn**    | **Cờ dài**    | **Mô tả**                                                                                                     |
+| **Tham số ngắn**    | **Tham số dài**    | **Mô tả**                                                                                                     |
 | :------------- | :------------ | :------------------------------------------------------------------------------------------------------------ |
 | `-C`           |               | Bổ sung tập hợp các ký tự trong string1, tức là `-C ab` bao gồm mọi ký tự ngoại trừ `a` và `b`.               |
 | `-c`           |               | Giống như -C.                                                                                                 |

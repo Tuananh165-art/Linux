@@ -53,9 +53,9 @@ Ví dụ:
 ```
 cmp -n 10 list.txt list2.txt 
 ```
-### Các cờ bổ sung và chức năng của chúng
+### Các tham số bổ sung và chức năng của chúng
 
-|**Cờ ngắn**   |**Cờ dài**   |**Mô tả**   |
+|**Tham số ngắn**   |**Tham số dài**   |**Mô tả**   |
 |:---|:---|:---|
 |`-b`|`--print-bytes`|in các byte khác nhau|
 |`-i`|`--ignore-initial=SKIP`|bỏ qua số byte đầu tiên của cả hai đầu vào|

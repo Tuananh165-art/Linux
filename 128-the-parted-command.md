@@ -62,7 +62,7 @@ parted [options] [device [command [options...]...]]
 ```
   
 ### Tuỳ chọn:
-|**Cờ ngắn**   |**Cờ dài**   |**Mô tả**   |
+|**Tham số ngắn**   |**Tham số dài**   |**Mô tả**   |
 |:---|:---|:---|
 |-h|--help|hiển thị một thông báo trợ giúp liệt kê tất cả các `commands [options]` có thể|
 |-l|--list|liệt kê bố cục phân vùng trên tất cả các thiết bị khối|

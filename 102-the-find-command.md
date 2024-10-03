@@ -44,13 +44,13 @@ find [where to start searching from]
  [expression determines what to find] [-options] [what to find]
 ```
 
-### Các cờ bổ sung và chức năng của chúng:
+### Các tham số bổ sung và chức năng của chúng:
 
 Các primaries thường được sử dụng bao gồm:
 - `name` pattern - kiểm tra xem tên tệp có khớp với mẫu shell-glob đã cho hay không.
 - `type` type - kiểm tra xem tệp có phải là loại đã cho hay không. Các loại tệp Unix được chấp nhận bao gồm:
 
-| **options** |  **Mô tả**                                                                                           |
+| **Tuỳ chọn** |  **Mô tả**                                                                                           |
 | :-------------  | :-------------------------------------------------------------------------------------------------------- |
 | `b`           | thiết bị khối (đệm)                                                 |
 | `d`            | thư mục                                                                      |

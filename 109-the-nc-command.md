@@ -58,15 +58,15 @@ $ printf "GET / HTTP/1.0\r\n\r\n" | nc host.ip 80
 
 #### 7. Quét cổng:
 
-Kiểm tra các cổng nào đang mở và chạy các dịch vụ trên các máy mục tiêu. Cờ `-z` ra lệnh để thông báo về những cổng đó thay vì khởi tạo một kết nối.
+Kiểm tra các cổng nào đang mở và chạy các dịch vụ trên các máy mục tiêu. Tham số `-z` ra lệnh để thông báo về những cổng đó thay vì khởi tạo một kết nối.
 
 ```bash
 $ nc -zv host.ip 20-2000 # phạm vi các cổng để kiểm tra
 ```
 
-### Các cờ và chức năng của chúng:
+### Các tham số và chức năng của chúng:
 
-| **Cờ ngắn**    | **Mô tả**                                                          |
+| **Tham số ngắn**    | **Mô tả**                                                          |
 | -------------- | ----------------------------------------------------------------- |
 | `-4`           | Buộc nc sử dụng địa chỉ IPv4                                      |
 | `-6`           | Buộc nc sử dụng địa chỉ IPv6                                      |

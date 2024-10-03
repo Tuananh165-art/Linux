@@ -8,7 +8,7 @@ less [options] file_path
 ```
 
 ## Các tùy chọn
-Một số cờ tùy chọn phổ biến bao gồm:
+Một số tham số tùy chọn phổ biến bao gồm:
 ```
 -E	less tự động thoát khi đến cuối tệp.
 -f	Buộc less mở các tệp không phải tệp thông thường (thư mục hoặc tệp đặc biệt của thiết bị).

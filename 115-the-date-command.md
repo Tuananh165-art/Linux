@@ -32,9 +32,9 @@ date [OPTION]... [+FORMAT]
 date [-u|--utc|--universal] [MMDDhhmm[[CC]YY][.ss]]
 ```
 
-### Các cờ bổ sung và chức năng của chúng:
+### Các tham số bổ sung và chức năng của chúng:
 
-|**Cờ ngắn**   |**Cờ dài**   |**Mô tả**   |
+|**Tham số ngắn**   |**Tham số dài**   |**Mô tả**   |
 |:---|:---|:---|
 |`-d`|`--date=STRING`|chuyển đổi chuỗi đã cung cấp thành ngày định dạng|
 |`-f`|`--file=DATEFILE`|giống như `--date` nhưng cho các tệp|

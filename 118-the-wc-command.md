@@ -22,9 +22,9 @@ ls -F | grep / | wc -l
 wc [OPTION]... [FILE]...
 ```
 
-### Các cờ bổ sung và chức năng của chúng:
+### Các tham số bổ sung và chức năng của chúng:
 
-|**Cờ ngắn**   |**Cờ dài**   |**Mô tả**   |
+|**Tham số ngắn**   |**Tham số dài**   |**Mô tả**   |
 |:---|:---|:---|
 |`-c` | `--bytes` | in số byte|
 |`-m` | `--chars` | in số ký tự|
@@ -36,4 +36,4 @@ wc [OPTION]... [FILE]...
 ### Ghi chú bổ sung:
 
 * Truyền nhiều hơn một tệp cho lệnh `wc` sẽ in số lượng cho mỗi tệp và tổng số của chúng.
-* bạn có thể kết hợp nhiều cờ để in kết quả như bạn muốn.
+* bạn có thể kết hợp nhiều tham số để in kết quả như bạn muốn.

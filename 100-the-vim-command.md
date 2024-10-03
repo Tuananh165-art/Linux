@@ -81,9 +81,9 @@ Trong hướng dẫn tương tác này, bạn sẽ học các cách khác nhau �
 
 [Hướng dẫn Open vim](https://www.openvim.com/)
 
-### Các cờ và chức năng bổ sung:
+### Các tham số và chức năng bổ sung:
 
-|**Cờ/Tùy chọn**  |<center>**Mô tả**</center>   |
+|**Tham số/Tùy chọn**  |<center>**Mô tả**</center>   |
 |:---|:---|
 |`-e`|Bắt đầu ở chế độ Ex (xem [Ex-mode](http://vimdoc.sourceforge.net/htmldoc/intro.html#Ex-mode))|
 |`-R`|Bắt đầu ở chế độ chỉ đọc|

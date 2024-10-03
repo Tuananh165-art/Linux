@@ -34,7 +34,7 @@ Nếu không có tùy chọn nào được đưa ra, thì đối số không ph�
 
 Trang chủ GNU sed: [http://www.gnu.org/software/sed/](http://www.gnu.org/software/sed/)
 
-|**Cờ ngắn**   |**Cờ dài**   |**Mô tả**   |
+|**Tham số ngắn**   |**Tham số dài**   |**Mô tả**   |
 |:---|:---|:---|
 |`-i[SUFFIX]`|<center>--in-place[=SUFFIX]</center>|Chỉnh sửa tệp tại chỗ (tạo bản sao lưu nếu cung cấp SUFFIX).|
 |`-n`|<center>--quiet, --silent</center>|Ngăn chặn tự động in không gian mẫu.|

@@ -9,7 +9,7 @@ nslookup [options] [host]
 ```
 
 ## Các tùy chọn
-Một số cờ tùy chọn phổ biến bao gồm:
+Một số tham số tùy chọn phổ biến bao gồm:
 
 ```
 -domain=[domain-name]	Thay đổi tên DNS mặc định.

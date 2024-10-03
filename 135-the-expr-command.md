@@ -37,9 +37,9 @@ a=HelloWorld
 b=`expr substr $a 6 10`
 echo $b
 ```
-### Các cờ bổ sung và chức năng của chúng
+### Các tham số bổ sung và chức năng của chúng
 
-|**Cờ** |**Mô tả**   |
+|**Tham số** |**Mô tả**   |
 :---|:---|
 |`--version`|hiển thị thông tin phiên bản và thoát|
 |`--help`|Hiển thị trợ giúp này và thoát|

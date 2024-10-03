@@ -28,9 +28,9 @@ mount -a [-fFnrsvw] [-t vfstype] [-O optlist]
 mount [-fnrsvw] [-t fstype] [-o options] device dir
 ```
 
-### Các cờ bổ sung và chức năng của chúng:
+### Các tham số bổ sung và chức năng của chúng:
 
-|**Cờ ngắn**   |**Cờ dài**   |**Mô tả**   |
+|**Tham số ngắn**   |**Tham số dài**   |**Mô tả**   |
 |:---|:---|:---|
 |`-h`|<center>`--help`</center>|Hiển thị thông điệp trợ giúp và thoát|
 |`-n`|<center>`--no-mtab`</center>|Gắn mà không ghi vào /etc/mtab|

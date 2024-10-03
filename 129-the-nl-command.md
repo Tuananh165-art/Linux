@@ -29,4 +29,4 @@ nl  -ba  chap1
 nl  -i10  -nrz  -s::  -v10  -w4  chap1
 ```
 
-Bạn chỉ có thể đặt tên một tệp trên dòng lệnh. Bạn có thể liệt kê các cờ và tên tệp theo bất kỳ thứ tự nào.
+Bạn chỉ có thể đặt tên một tệp trên dòng lệnh. Bạn có thể liệt kê các tham số và tên tệp theo bất kỳ thứ tự nào.

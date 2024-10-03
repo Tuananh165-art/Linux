@@ -19,9 +19,9 @@ rmdir a b c				// xóa các thư mục trống a, b và c
 rmdir [OPTION]... DIRECTORY...
 ```
 
-### Các cờ bổ sung và chức năng của chúng:
+### Các tham số bổ sung và chức năng của chúng:
 
-|**Cờ ngắn**   |**Cờ dài**   |**Mô tả**   |
+|**Tham số ngắn**   |**Tham số dài**   |**Mô tả**   |
 |:---|:---|:---|
 |`-`|`--ignore-fail-on-non-empty`|bỏ qua mỗi lỗi chỉ vì một thư mục không trống|
 |`-p`|`--parents`|xóa DIRECTORY và các thư mục cha của nó|
